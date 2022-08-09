@@ -37,5 +37,16 @@
 
  .contenido {
     display: flex; 
-    
+    margin: 60px;
+
+ }
+ .articulos{
+    width: 80%;
+    border-right: 3px solid black;
+ }
+ 
+ .secciones{
+    display: flex;
+    align-items: center;
+    padding: 40px;
  }
